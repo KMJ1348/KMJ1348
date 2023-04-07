@@ -1,5 +1,6 @@
 # KMJ1348
- ![사진1](https://user-images.githubusercontent.com/107060000/230518563-4f36cfe3-b008-435b-a86b-ef83644f5555.png)
+ ![다운로드](https://user-images.githubusercontent.com/107060000/230518945-96e01029-8369-488d-b3fb-415475192c9c.jpg)
+
 
 # 표 생성
 
